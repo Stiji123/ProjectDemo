@@ -1,5 +1,11 @@
 HAi alameen
 
+<<<<<<< HEAD
 Hai stiji
 
 hai anjana
+=======
+Hai stiji 
+
+hAi anjana
+>>>>>>> development
